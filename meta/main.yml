@@ -1,5 +1,5 @@
 galaxy_info:
-  decription: Role 4 Mesos Master.
+  decription: Role 45 Mesos Master.
   min_ansible_version: 1.8.4
   platforms:
     - name: Ubuntu

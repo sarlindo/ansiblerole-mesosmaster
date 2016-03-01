@@ -1,0 +1,7 @@
+galaxy_info:
+  decription: Role for Mesos Master.
+  min_ansible_version: 1.8.4
+  platforms:
+    - name: Ubuntu
+      versions:  
+         - trusty
